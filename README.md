@@ -7,7 +7,7 @@ Android Studio
 IntelliJ IDEA - 2023.2.1
 
 #### Required Packages:
-Spring Initializer
-MySQL Workbench 8.0 
-MySQL
+Spring Initializer <br>
+MySQL Workbench 8.0 <br>
+MySQL <br>
 Retrofit
